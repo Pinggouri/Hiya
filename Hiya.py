@@ -1,2 +1,3 @@
 def some_function(test):
-    return test
+    print(test)
+some_function("Hiya")
